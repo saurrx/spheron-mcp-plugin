@@ -1,0 +1,13 @@
+{
+  "name": "spheron-mcp-plugin",
+  "version": "1.0.0",
+  "description": "MCP plugin for Spheron Protocol",
+  "type": "module",
+  "scripts": {
+    "test": "node test-spheron-mcp.js",
+    "test-logging": "node test-logging.js",
+    "test-log-levels": "node test-log-levels.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

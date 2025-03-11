@@ -24,3 +24,11 @@ package-lock.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Test files
+*test*.js
+*test*.log
+*test*.yaml
+test-*.js
+test-*.log
+test-*.yaml
